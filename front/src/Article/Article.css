@@ -1,0 +1,9 @@
+.article {
+    margin: 60px;
+}
+
+.attached {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
